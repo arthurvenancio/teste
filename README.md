@@ -2,4 +2,4 @@
 blabla
 # qualquer outra coisa
 
-<img scr="/bg.jpg" width="500" height="500">
+<img scr="barba.jpg" width="500" height="500">
